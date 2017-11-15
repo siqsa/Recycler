@@ -13,6 +13,10 @@ public class MainActivity extends AppCompatActivity {
         TextView textView=(TextView)findViewById(R.id.textView);
         textView.setText("This is  Diary Project");
 
+        TextView textView2 = (TextView) findViewById(R.id.textView2);
+        textView.setText("This is second TextView");
+
+
 
     }
 }
